@@ -8,8 +8,7 @@ import java.io.Serializable;
 
 import org.apache.commons.lang3.builder.ToStringBuilder;
 import org.apache.commons.lang3.builder.ToStringStyle;
-
-import cn.fesc.facade.common.util.AssertUtil;
+import org.tradecore.util.AssertUtil;
 
 /**
  * 抽象请求类
